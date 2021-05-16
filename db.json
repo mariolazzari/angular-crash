@@ -19,5 +19,8 @@
       "reminder": false
     }
   ],
-  "names": ["Mario", "Mary"]
+  "names": [
+    "Mario",
+    "Mary"
+  ]
 }
